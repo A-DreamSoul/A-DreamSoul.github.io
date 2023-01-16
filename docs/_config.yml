@@ -1,0 +1,14 @@
+title: Your project name
+lang: en
+description: a catchy description for your project
+
+remote_theme: sighingnow/jekyll-gitbook
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
