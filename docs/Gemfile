@@ -1,11 +1,4 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
+gem "jekyll-rtd-theme"
 
-gem "jekyll-gitbook"
 gem "github-pages", group: :jekyll_plugins
-
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
-gem "jekyll"
-gem 'jekyll-feed'
-gem 'jekyll-readme-index'
-gem 'jemoji'
-gem 'webrick'

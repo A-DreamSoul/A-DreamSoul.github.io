@@ -2,13 +2,13 @@ title: Your project name
 lang: en
 description: a catchy description for your project
 
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
-  with_frontmatter: true
+    with_frontmatter: true
 
 exclude:
-  - Makefile
+    - Makefile
   - CNAME
   - Gemfile
   - Gemfile.lock
