@@ -1,4 +1,4 @@
 source "https://gems.ruby-china.com"
-gem "jekyll-rtd-theme"
+gem "jekyll-gitbook"
 
 gem "github-pages", group: :jekyll_plugins
